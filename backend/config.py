@@ -1,0 +1,3 @@
+MT5_LOGIN = 90251143
+MT5_PASSWORD = "mGhg(3M6"
+MT5_SERVER = "MEXAtlantic-Demo"
